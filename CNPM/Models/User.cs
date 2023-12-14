@@ -8,5 +8,6 @@ namespace CNPM.Models
 {
     internal class User
     {
+        public int ID { get; set; }
     }
 }
